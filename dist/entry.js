@@ -1,0 +1,2 @@
+funDelegate = require('../src')
+
